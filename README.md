@@ -1,6 +1,9 @@
-# __JARVIS :robot: with python__ :wave:
+# :electron: __JARVIS :robot: with python__ :wave:
 
-> If you're big fan of Ironman, you must have listened about his AI-JARVIS. So, I've made one for you to make use of ...
+> If you're big fan of Ironman, you must have listened about his AI-JARVIS. So, I've made one for you to make use of ... :beginner:
+
+## :warning: This project has some defects, and I'm working on it.
+:no_entry: __Till then, you can commit any changes required here.__ :no_entry_sign:
 
 ## Modules requires:
 
@@ -37,7 +40,7 @@
 * requests
 > json, inbuild module
 
-
+:feelsgood:
 __This is the New Jarvis AI Project it will do some functionality followed by user query__
 
 > Say "Help" or "tell me your features" , it will show all it's features :brain:
@@ -58,4 +61,4 @@ __This is the New Jarvis AI Project it will do some functionality followed by us
               And yes  more thing to come...
             
 :see_no_evil: :speak_no_evil: :hear_no_evil:
-
+> :construction: This project is under construction..
